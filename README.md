@@ -10,7 +10,11 @@ Beyond the initial moments of the universe, this GPT chronicles the ongoing stor
 #
 ### Related Links
 
-[ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[Space](https://github.com/sourceduty/Space)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
