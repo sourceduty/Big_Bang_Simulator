@@ -45,6 +45,8 @@ Conversely, the immense scale of celestial bodies and astronomical phenomena mak
 [GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 <br>
 [Space](https://github.com/sourceduty/Space)
+<br>
+[Satellite Lab](https://github.com/sourceduty/Satellite_Lab)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
