@@ -15,6 +15,22 @@ The Big Bang theory, while the most widely accepted explanation for the origin o
 Proving the Big Bang would require direct evidence of the singularity or the precise conditions at the moment of creation—something fundamentally out of reach given that the universe's earliest moments are obscured by the "cosmic horizon," beyond which light has not yet reached us. Moreover, the physical laws governing the universe break down near the Planck epoch (10⁻⁴³ seconds after the Big Bang), leaving a gap in our understanding that quantum gravity theories, such as string theory or loop quantum gravity, have yet to bridge conclusively. Science relies on falsifiable hypotheses and repeatable experiments, but the origin of the universe is a one-time, unrepeatable event. While the Big Bang is strongly supported by observational evidence and mathematical models, its proof is inherently limited by the inability to empirically access the initial conditions of the universe. In this sense, the Big Bang remains a theory that is validated by converging lines of evidence rather than an incontrovertible fact. Its "proof" lies not in absolute certainty but in its ability to consistently explain observable phenomena better than any competing theory.
 
 #
+### Reverse Engineering
+
+The universe cannot be reverse engineered. Reverse engineering is a process of taking something apart and analyzing its components to understand how it works, in order to create similar items or improve upon them. Since the universe is not an object that was created by humans, but rather the result of natural processes, we can't take it apart or analyze its components like we would with a man-made device.
+
+However, scientists study the universe through observation and experimentation in order to understand how it works and why it exists in its current form. This process is often referred to as "forward engineering" because instead of taking something apart, scientists are trying to build an understanding of how things came together over time. By studying the physical laws that govern our universe, astronomers can make predictions about what will happen in the future or how certain events occurred in the past.
+
+#
+### Central Point
+
+There isn't a single point that can be identified as the "center" or origin of our universe. The Big Bang theory describes how space and time itself expanded from an extremely hot and dense state around 13.8 billion years ago. However, this doesn't mean there was some central location where everything began.
+
+Think of it like a balloon with dots drawn on its surface. As you inflate the balloon (representing the expansion of the universe), all points move away from each other equally in all directions. There isn't one specific point that can be called the "center" or origin, even though every dot is moving away from every other dot at an equal rate.
+
+Similarly, our current understanding suggests that space itself expanded rapidly after the Big Bang and continues to expand today. Every galaxy we observe appears to be receding from us as if it were located in a central point behind us - but this doesn't mean there actually IS such a center. It just means that due to how spacetime is structured, all points are moving away from each other at an equal rate relative to every other point.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
